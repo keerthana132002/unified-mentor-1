@@ -47,7 +47,7 @@ This bar chart breaks down the number of units sold by item type.
 
 ## Detailed Analysis and Geographical Distribution
 
-![Detailed Analysis and Geographical Distribution]
+
 ![Screenshot 2024-07-27 214703](https://github.com/user-attachments/assets/06b45589-0ee8-43c0-b2a4-ca2d093856ed)
 
 ### Revenue by Product Category
