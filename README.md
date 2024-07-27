@@ -9,6 +9,7 @@ This repository provides an in-depth analysis of Amazon sales data. The analysis
 
 ![Amazon Sales Overview][Screenshot 2024-07-27 214620 - Copy]
 [Screenshot 2024-07-27 214620 - Copy](https://github.com/user-attachments/assets/81c4d595-e429-452f-90a3-07cee1133101)
+(https://github.com/user-attachments/assets/81c4d595-e429-452f-90a3-07cee1133101)
 This dashboard offers a comprehensive view of Amazon's sales performance. The key metrics and visualizations include:
 
 - **Total Units Sold**: 513K
